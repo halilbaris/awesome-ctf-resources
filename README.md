@@ -52,7 +52,7 @@ Any contribution is welcome, send me a PR! ❤️
  - [Mellivora](https://github.com/Nakiami/mellivora) - CTF engine written in PHP.
  - [NightShade](https://github.com/UnrealAkama/NightShade) - Simple CTF framework.
  - [picoCTF](https://github.com/picoCTF/picoCTF) - Infrastructure used to run picoCTF.
- - [rCTF](https://github.com/redpwn/rctf) - CTF platform maintained by the [redpwn](https://github.com/redpwn/rctf) CTF team.
+ - [rCTF](https://github.com/otter-sec/rctf) - CTF platform created by the [redpwn](https://github.com/redpwn/rctf) CTF team. Now maintained and developed by [OtterSec](https://osec.io/) team.
  - [RootTheBox](https://github.com/moloch--/RootTheBox) - CTF scoring engine for wargames.
  - [ImaginaryCTF](https://github.com/Et3rnos/ImaginaryCTF) - Platform to host CTFs.
 
